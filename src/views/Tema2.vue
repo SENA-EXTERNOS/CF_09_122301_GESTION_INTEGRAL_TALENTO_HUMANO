@@ -14,7 +14,7 @@
             img(src="@/assets/curso/temas/tema2/img1.png", alt="alt")
         .col-lg-8
           p Conociendo la principal diferencia entre inducción y #[i Onboarding], se profundizará sobre los aspectos más relevantes para poder estructurar una inducción de manera efectiva dentro de una empresa, esto es, la planeación estratégica.
-          .cajon.color-primario.px-4.pb-1.pt-3.mb-3
+          .cajon.color-acento-contenido.px-4.pb-1.pt-3.mb-3
             p Para estructurar de forma adecuada un programa de inducción se debe entender que todo inicia desde la planeación general de la empresa. A continuación, se explica con más detalle.
           p Todo inicia desde la definición de la misión, la visión, los valores corporativos y las políticas organizativas que den lineamientos de hacia dónde se desea dirigir la empresa y cuáles serán las estrategias para lograrlo. Así, la planeación estratégica se convierte en una herramienta de gestión que pretende organizar, planear, delegar, liderar y dirigir la organización, creando rutas de acción que den respuesta a las necesidades empresariales, mediante la estructuración de objetivos y toma de decisiones. Esta planeación hace posible que los miembros de la empresa entiendan y evalúen cómo está la organización; lo que les faculta para establecer equipos de trabajo y definir roles, logrando así, una sincronización de esfuerzos hacia planes de acción conjuntos. 
 
@@ -70,8 +70,8 @@
             img(src="@/assets/curso/temas/tema2/img4.png", alt="alt").img1-tm1
 
         .col-lg-10
-          p Al identificar la importancia de la planeación estratégica en la proyección de la empresa y el impacto que puede generar en los empleados, se hablará de las diferentes clases de planeación.
-          p La dirección de una empresa desarrolla una planeación que brinda las pautas para los diferentes departamentos o áreas que la conforman; esto les da el punto de arranque para estructurar sus planes de acción, además de organizar y promover en sus colaboradores el compromiso para alcanzar los objetivos.
+          p Al haber tratado, en teoría, las clases de planeación y su aplicación en las áreas o departamentos, se mostrará, de manera gráfica, la ejecución y lugar de cada tipo de planeación.
+          p La Figura 2 enseña, mediante un ejemplo, cómo se desarrollan los planes estratégicos, tácticos y operacionales en la empresa. El ejemplo inicia desde la alta gerencia, donde, el área de recursos humanos, al identificar necesidades, diseñan un plan táctico sobre sus procesos y, desde allí, surgen las necesidades para el desarrollo del plan operativo.
 
       .row.justify-content-center.my-5
         .col-lg-10
@@ -112,7 +112,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Figura 2
+                    h3.mb-1 Figura 3
                     p Diagrama de metodología y plan para el programa de inducción
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/figura-3.pdf')" target="_blank")

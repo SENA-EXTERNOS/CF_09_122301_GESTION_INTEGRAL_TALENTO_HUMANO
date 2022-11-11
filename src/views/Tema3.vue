@@ -92,25 +92,25 @@
             figure
               img(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
 
-          .tarjeta.estilo-cajon.p-3(x="18%" y="20%" numero="1")
+          .tarjeta.estilo-cajon.p-3(x="18%" y="20%" numero="+")
             .h5.mb-2 Identificar necesidades y oportunidades
             p Partiendo de las exigencias del sector productivo, más los retos tecnológicos, la empresa identifica los aspectos en los cuales considera mejorar, iniciar o modificar, de acuerdo a la oportunidad y/o necesidad. 
             p En este punto es fundamental empezar a establecer los objetivos a alcanzar.
 
-          .tarjeta.estilo-cajon.p-3(x="28%" y="59%" numero="2")
+          .tarjeta.estilo-cajon.p-3(x="28%" y="59%" numero="+")
             .h5.mb-2 Establecer los objetivos que se esperan alcanzar
             p Se debe tener claro a dónde se quiere llegar y qué se espera alcanzar con los objetivos. Seguido a esto, corresponde organizarlos de acuerdo con la prioridad y establecer fechas de alcance.
             p Posterior al planteamiento de los objetivos, se busca conocer los antecedentes realizados como base para nuevas propuestas.
 
-          .tarjeta.estilo-cajon.p-3(x="46.5%" y="60%" numero="3")
+          .tarjeta.estilo-cajon.p-3(x="46.5%" y="60%" numero="+")
             .h5.mb-2 Proyectar los antecedentes de planeación
             p El conocer los antecedentes realizados referentes a procesos, políticas, programas, etc., permite crear estrategias para el desarrollo de nuevos retos. Después de conocer las bases, se empiezan a formular posibles soluciones del tema.
 
-          .tarjeta.estilo-cajon.p-3(x="82%" y="75%" numero="4")
+          .tarjeta.estilo-cajon.p-3(x="82%" y="75%" numero="+")
             .h5.mb-2 Reconocer posibles alternativas
             p El análisis de varios escenarios permite identificar diferentes alternativas de acción (tanto ventajas como desventajas), lo cual permite tomar decisiones más acertadas para el logro de los objetivos.
 
-          .tarjeta.estilo-cajon.p-3(x="77%" y="22%" numero="5")
+          .tarjeta.estilo-cajon.p-3(x="77%" y="22%" numero="+")
             .h5.mb-2 Evaluación del plan
             p Se realiza un análisis de las propuestas por medio de la evaluación del plan.
             p Conocer los costos de cada uno de los programas, proyectos y demás permite calcular el presupuesto requerido para la planeación estratégica.

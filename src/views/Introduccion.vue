@@ -18,6 +18,9 @@
           .cajon.color-acento-contenido.py-3.px-4
             p La alta gerencia; sector de recursos humanos, cuenta con una planeación estratégica para el funcionamiento general de la empresa. Así, esta herramienta de gestión, brinda las directrices a las diferentes áreas que la componen, da a conocer los resultados, las metas y funciones a desarrollar; para de esta manera, poder estructurar programas, procesos, planes y actividades que contribuyen a una mejora continua de los procesos institucionales.
 
+    .row.my-5
+      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+
       .row.my-5
         figure
           .video
