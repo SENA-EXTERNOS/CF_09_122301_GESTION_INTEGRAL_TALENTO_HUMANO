@@ -36,7 +36,7 @@
           .row.justify-content-center
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img3.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img3.svg", alt="alt")
             .col-8.col-lg-6
               p.mt-3 Puesta en marcha 
               p Transmitir objetivos
@@ -48,12 +48,12 @@
               p Conformación de equipos
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img4.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img4.svg", alt="alt")
               
           .row.justify-content-center
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img5.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img5.svg", alt="alt")
             .col-10.col-lg-6
               p.mt-3 Distribución de tareas 
               p Ejecución de las tareas
@@ -64,12 +64,12 @@
               p Necesidades de mejora 
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img6.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img6.svg", alt="alt")
 
           .row.justify-content-center
             .col-6.col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img7.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img7.svg", alt="alt")
             .col-11.col-lg-6
               p.mt-3 Aplicación de acciones de mejora
               p Seguimiento
@@ -161,12 +161,12 @@
           .tarjeta.color-secundario.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-2
-                img(src="@/assets/curso/temas/tema3/img12.png").img8-tm1
+                img(src="@/assets/curso/temas/tema3/img12.svg").img8-tm1
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h3.mb-1 Comunicación asertiva en el trabajo: 7 estrategias exitosas
-                    p Para profundizar más en la importancia de la comunicación asertiva en ambientes laborales, diríjase al material complementario y explore el blog: Comunicación asertiva en el trabajo: 7 estrategias exitosas.
+                    p Para profundizar más en la importancia de la comunicación asertiva en ambientes laborales, diríjase al material complementario y explore el blog: #[strong Comunicación asertiva en el trabajo: 7 estrategias exitosas.]
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                       span Descargar
@@ -180,7 +180,7 @@
 
 
     .row.my-5
-      p Dentro de la empresa se presentan varias clases de comunicación. Esta tipología depende, básicamente, de dos factores: el área que transmite y a quién va dirigida la información. Así, los clases de comunicación que se encuentran en el ámbito empresarial son:
+      p Dentro de la empresa se presentan varias clases de comunicación. Esta tipología depende, básicamente, de dos factores: el área que transmite y a quién va dirigida la información. Así, las clases de comunicación que se encuentran en el ámbito empresarial son:
 
     .fondo-tarjeta4
       .tarjeta.tarjeta--morada.color-primario--borde.p-4.mb-5

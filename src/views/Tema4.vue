@@ -13,35 +13,38 @@
     .row.justify-content-center.my-5
       .col-lg-8
         figure
-          img(src="@/assets/curso/temas/tema4/img1.png", alt="alt")
+          img(src="@/assets/curso/temas/tema4/img1.svg", alt="alt")
+
+    .row.my-5
+      p Los recursos empresariales corresponden a todos aquellos aspectos que brindan los elementos necesarios para que la empresa pueda funcionar en el campo productivo. Los más manejados son:
 
     .row.justify-content-center.my-5
       LineaTiempoD.color-rosa
         .row(numero="1" titulo="Recursos humanos")
           .col-6.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema4/img2.png',).img2-3-4-5-tm-4
+              img(src='@/assets/curso/temas/tema4/img2.svg',).img2-3-4-5-tm-4
           .col-lg-10
             p Es el recurso más significativo dentro de una organización, ya que es el encargado de utilizar los otros recursos para el funcionamiento efectivo de la empresa. Son intangibles, la organización no es su propietaria; de tal manera que, ofrecen sus servicios, conocimiento y experticia a cambio de un salario. Por este motivo los procesos de selección, reclutamiento e inducción son fundamentales, ya que los perfiles de los cargos deben ser coherentes con los objetivos que la compañía desea alcanzar y/o mantener.
 
         .row(numero="2" titulo="Recursos económicos")
           .col-6.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema4/img3.png',).img2-3-4-5-tm-4
+              img(src='@/assets/curso/temas/tema4/img3.svg',).img2-3-4-5-tm-4
           .col-lg-10
             p Es la capacidad financiera con la que cuenta la empresa para el desarrollo de su actividad. Los recursos económicos incluyen el efectivo, las inversiones, acciones, gastos existentes, posibles créditos, etc. Asimismo, este recurso permite adquirir elementos, infraestructura, materia prima y pagar las necesidades de la organización: nómina, créditos y materiales.
 
         .row(numero="3" titulo="Recursos físicos")
           .col-6.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema4/img4.png',).img2-3-4-5-tm-4
+              img(src='@/assets/curso/temas/tema4/img4.svg',).img2-3-4-5-tm-4
           .col-lg-10
             p Estos corresponden a todo lo tangible que tiene la empresa para su adecuado funcionamiento: objetos, materiales, maquinaria, materias primas, elementos tecnológicos, etc.
 
         .row(numero="4" titulo="Recursos tecnológicos")
           .col-6.col-lg-2
             figure
-              img(src='@/assets/curso/temas/tema4/img5.png',).img2-3-4-5-tm-4 
+              img(src='@/assets/curso/temas/tema4/img5.svg',).img2-3-4-5-tm-4 
           .col-lg-10
             p Estos recursos ayudan y facilitan la realización de diferentes procesos; lo que permite agilizar su desarrollo y funcionamiento. Los recursos tecnológicos también contribuyen a la gestión de la información y favorecen la comunicación empresarial.
 
@@ -53,12 +56,14 @@
     .row.justify-content-center.my-5
       .col-6.col-lg-2.mb-5
         figure
-          img(src="@/assets/curso/temas/tema4/img6.png", alt="alt").img1-tm1
+          img(src="@/assets/curso/temas/tema4/img6.svg", alt="alt").img1-tm1
 
       .col-lg-10
         p Los procedimientos técnicos corresponden a tareas, procedimientos y acciones que se llevan a cabo con un orden y tiempo específico. Su finalidad es la transformación de materias primas o de bienes, en productos o servicios. 
         p Por su parte, los formatos son diseñados de acuerdo a las necesidades del proceso, a las características de la empresa, a su misión, visión y objetivos empresariales. Hay formatos de varios tipos que se adecuan según la exigencia del proyecto, el fin que se busca con su diligenciamiento y posterior análisis de resultados. 
 
+    .row.my-5
+      p A continuación, se describen los tipos de formatos más usados en el ámbito empresarial:
   
       .row.justify-content-center.my-5
         .col-lg-9

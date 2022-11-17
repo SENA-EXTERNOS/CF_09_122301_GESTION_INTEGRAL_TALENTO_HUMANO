@@ -26,7 +26,7 @@
     .row.justify-content-center
       .col-6.col-lg-2.mb-5
         figure
-          img(src="@/assets/curso/temas/tema2/img2.png", alt="alt").img1-tm1
+          img(src="@/assets/curso/temas/tema2/img2.svg", alt="alt").img1-tm1
 
       .col-lg-10
         p Al identificar la importancia de la planeación estratégica en la proyección de la empresa y el impacto que puede generar en los empleados, se hablará de las diferentes clases de planeación.
@@ -67,7 +67,7 @@
       .row.justify-content-center
         .col-6.col-lg-2.mb-5
           figure
-            img(src="@/assets/curso/temas/tema2/img4.png", alt="alt").img1-tm1
+            img(src="@/assets/curso/temas/tema2/img4.svg", alt="alt").img1-tm1
 
         .col-lg-10
           p Al haber tratado, en teoría, las clases de planeación y su aplicación en las áreas o departamentos, se mostrará, de manera gráfica, la ejecución y lugar de cada tipo de planeación.
@@ -78,7 +78,7 @@
           .tarjeta.color-secundario.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-2
-                img(src="@/assets/curso/temas/tema2/img6.png").img8-tm1
+                img(src="@/assets/curso/temas/tema2/img6.svg").img8-tm1
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
@@ -97,7 +97,7 @@
       .row.justify-content-center
         .col-6.col-lg-2.mb-5
           figure
-            img(src="@/assets/curso/temas/tema2/img5.png", alt="alt").img1-tm1
+            img(src="@/assets/curso/temas/tema2/img5.svg", alt="alt").img1-tm1
 
         .col-lg-10
           p En la Figura 3, se presenta un mapa con las etapas para la planeación estratégica dentro de una empresa. 
@@ -108,7 +108,7 @@
           .tarjeta.color-secundario.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-2
-                img(src="@/assets/curso/temas/tema2/img6.png").img8-tm1
+                img(src="@/assets/curso/temas/tema2/img6.svg").img8-tm1
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0

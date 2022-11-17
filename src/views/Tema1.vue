@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-6.col-lg-2.mb-5
         figure
-          img(src="@/assets/curso/temas/tema1/img1.png", alt="alt").img1-tm1
+          img(src="@/assets/curso/temas/tema1/img1.svg", alt="alt").img1-tm1
 
       .col-lg-10
         p La empresa tiene el interés de desarrollar programas de inducción que permitan a los nuevos empleados comprender, de una manera clara y completa, la misión y la proyección de la compañía, los objetivos que manejan, la forma de cómo aspiran lograrlos; el dinamismo organizacional, las normas que lo establecen, los reglamentos que lo articulan; así como las cualidades y aptitudes de sus colaboradores, que lo hacen posible.
@@ -44,7 +44,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img3.png')})`}"
           )
           .bloque-texto-g1__texto.p-4
-            p El Decreto 1567 de 1998 insiste que cualquier vinculación laboral debe incluir programas de inducción, siendo este proceso determinante para la adaptación del nuevo colaborador al cargo, donde aprenderá sus funciones, procesos, requerimientos, metas proyectadas, su relación y comunicación con el equipo de trabajo, el aprender a manejar herramientas o elementos para poder desempeñarse. Este programa, además, busca integrar al nuevo empleado a la estructura funcional de la empresa, le presenta sus valores corporativos, misión, visión, objetivos estratégicos, etc.; así, esta herramienta de gestión es una estrategia para la apropiación y sentido de pertenencia; motivando al nuevo colaborador en la organización.
+            p #[strong El Decreto 1567 de 1998] insiste que cualquier vinculación laboral debe incluir programas de inducción, siendo este proceso determinante para la adaptación del nuevo colaborador al cargo, donde aprenderá sus funciones, procesos, requerimientos, metas proyectadas, su relación y comunicación con el equipo de trabajo, el aprender a manejar herramientas o elementos para poder desempeñarse. Este programa, además, busca integrar al nuevo empleado a la estructura funcional de la empresa, le presenta sus valores corporativos, misión, visión, objetivos estratégicos, etc.; así, esta herramienta de gestión es una estrategia para la apropiación y sentido de pertenencia; motivando al nuevo colaborador en la organización.
 
 
     .row.justify-content-start.align-items-center.mb-5.pt-5           
@@ -55,7 +55,7 @@
     .row.justify-content-center.my-5
       .col-6.col-lg-2.mb-5
         figure
-          img(src="@/assets/curso/temas/tema1/img4.png", alt="alt").img1-tm1
+          img(src="@/assets/curso/temas/tema1/img4.svg", alt="alt").img1-tm1
       .col-lg-10
         p Los programas de inducción cuentan con dos tipos básicos de socialización: general y específico; sin embargo, recientemente, se ha evidenciado la pertinencia de otros dos: #[strong preinducción y reinducción,] procesos que se realizan en situaciones especiales.
         p En el siguiente video se abordará cada tipo de proceso, con sus respectivas características:
@@ -118,7 +118,7 @@
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/tema1/img8.png").img8-tm1
+              img(src="@/assets/curso/temas/tema1/img8.svg").img8-tm1
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -132,67 +132,69 @@
     .row.justify-content-center.my-5
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/img9.png',)              
+          img(src='@/assets/curso/temas/tema1/img9.svg',)              
 
-    .fondo-tarjeta1
-      .row.justify-content-center.my-5
-        .col-lg-10
-          .cajon.color-acento-contenido.p-4
-            p El programa de inducción (y en general cualquier proceso desarrollado por la empresa) se organiza, diseña, ejecuta y evalúa partiendo del ciclo PHVA: Planear, Hacer, Verificar y Actuar. Este ciclo es dinámico y se desarrolla mediante el diligenciamiento de formatos establecidos por la empresa para el registro de la información. 
-
-
-      .row.my-5
-        p Los datos recogidos se convierten en un insumo que permite estructurar el cronograma para la organización de actividades, la planeación estratégica de la inducción, la organización de sus fases, la evaluación, las acciones de mejora, entre otros. A continuación, se explica a detalle:
+    //.fondo-tarjeta1
+    .row.justify-content-center.my-5
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4
+          p El programa de inducción (y en general cualquier proceso desarrollado por la empresa) se organiza, diseña, ejecuta y evalúa partiendo del ciclo PHVA: Planear, Hacer, Verificar y Actuar. Este ciclo es dinámico y se desarrolla mediante el diligenciamiento de formatos establecidos por la empresa para el registro de la información. 
 
 
-      .row.justify-content-center.my-5
-        .col-lg-8
-          LineaTiempoD.color-rosa
-            .row(numero="A" titulo="Planear")
-              .col-6.col-lg-2
-                figure
-                  img(src='@/assets/curso/temas/tema1/img10.png',)  
-              .col-lg-10
-                p para la estructuración del programa de inducción.
-                p Identificación de los objetivos, organización de las actividades, planeación de las jornadas, duración, fechas, responsables, etc. Lo anterior, de acuerdo con las necesidades encontradas dentro de la empresa.
+    .row.my-5
+      p Los datos recogidos se convierten en un insumo que permite estructurar el cronograma para la organización de actividades, la planeación estratégica de la inducción, la organización de sus fases, la evaluación, las acciones de mejora, entre otros. A continuación, se explica a detalle:
 
-            .row(numero="B" titulo="Hacer")
-              .col-6.col-lg-2
-                figure
-                  img(src='@/assets/curso/temas/tema1/img11.png',)  
-              .col-lg-10
-                p Ejecución de las actividades conforme al cronograma desarrollado en la planeación de la inducción, cumplimiento de tiempos, estrategias metodológicas y pedagógicas, manejo de recursos, espacios adecuados donde se realizan.
 
-            .row(numero="C" titulo="Verificar")
-              .col-6.col-lg-2
-                figure
-                  img(src='@/assets/curso/temas/tema1/img12.png',)  
-              .col-lg-10
-                p Realizar la evaluación del desarrollo de la inducción sobre las temáticas, pedagogía, conocimientos adquiridos y componentes. Estos datos serán un factor importante para identificar aspectos por mejorar.
-                p Diligenciar reportes y tener en cuenta el manejo y análisis de los datos.
+    .row.justify-content-center.my-5
+      .col-lg-8
+        LineaTiempoD.color-rosa
+          .row(numero="A" titulo="Planear")
+            .col-6.col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img10.svg',)  
+            .col-lg-10
+              p para la estructuración del programa de inducción.
+              p Identificación de los objetivos, organización de las actividades, planeación de las jornadas, duración, fechas, responsables, etc. Lo anterior, de acuerdo con las necesidades encontradas dentro de la empresa.
 
-            .row(numero="D" titulo="Actuar")
-              .col-6.col-lg-2
-                figure
-                  img(src='@/assets/curso/temas/tema1/img13.png',)  
-              .col-lg-10
-                p Análisis de resultados, identificación de falencias y aplicación de correcciones y acciones de mejora, ya sea en la estructuración de los cronogramas, en los tiempos, en la pedagogía o temática utilizada para próximas inducciones.
+          .row(numero="B" titulo="Hacer")
+            .col-6.col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img11.svg',)  
+            .col-lg-10
+              p Ejecución de las actividades conforme al cronograma desarrollado en la planeación de la inducción, cumplimiento de tiempos, estrategias metodológicas y pedagógicas, manejo de recursos, espacios adecuados donde se realizan.
 
-      .row.justify-content-start.align-items-center.mb-5.pt-3         
-        .col-lg-4
-          .bgp.p-1(data-aos="fade-right")
-            h4(data-aos="fade-down").mb-0 Metodología y plan
+          .row(numero="C" titulo="Verificar")
+            .col-6.col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img12.svg',)  
+            .col-lg-10
+              p Realizar la evaluación del desarrollo de la inducción sobre las temáticas, pedagogía, conocimientos adquiridos y componentes. Estos datos serán un factor importante para identificar aspectos por mejorar.
+              p Diligenciar reportes y tener en cuenta el manejo y análisis de los datos.
 
-      .row.my-5
-        p Teniendo clara la importancia del Registro de calidad y la influencia del ciclo PHVA sobre el proceso de inducción; ahora, se complementará esta información con la metodología y plan para desarrollar dentro de la empresa.
+          .row(numero="D" titulo="Actuar")
+            .col-6.col-lg-2
+              figure
+                img(src='@/assets/curso/temas/tema1/img13.svg',)  
+            .col-lg-10
+              p Análisis de resultados, identificación de falencias y aplicación de correcciones y acciones de mejora, ya sea en la estructuración de los cronogramas, en los tiempos, en la pedagogía o temática utilizada para próximas inducciones.
 
-      .titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 1
-        span #[i Diagrama de metodología y plan para el programa de inducción] 
+
+    .row.justify-content-start.align-items-center.mb-5.pt-3         
+      .col-lg-4
+        .bgp.p-1(data-aos="fade-right")
+          h4(data-aos="fade-down").mb-0 Metodología y plan
+
+    .row.my-5
+      p Teniendo clara la importancia del Registro de calidad y la influencia del ciclo PHVA sobre el proceso de inducción; ahora, se complementará esta información con la metodología y plan para desarrollar dentro de la empresa.
+      p La metodología y plan se pueden entender como el conjunto de tareas, estrategias y lineamientos que son usados al momento de trabajar en un proyecto, son necesarias para la estructuración de cualquier proceso desarrollado dentro de la empresa, específicamente, para el programa de inducción. A continuación, en la Figura 1, se podrá observar, de manera general, la metodología y plan para su realización: 
+      
+    .titulo-sexto.color-acento-contenido.mb-3
+      h5 Figura 1
+      span #[i Diagrama de metodología y plan para el programa de inducción] 
 
     .row.justify-content-center.my-5
       figure
-        img(src='@/assets/curso/temas/tema1/img14.png',)     
+        img(src='@/assets/curso/temas/tema1/img14.svg',)     
 
       .row.justify-content-center.my-5
         .col-lg-10
@@ -225,7 +227,7 @@
     .row.justify-content-center.my-5
       .col-6.col-lg-2.mb-5
         figure
-          img(src="@/assets/curso/temas/tema1/img16.png", alt="alt").img1-tm1
+          img(src="@/assets/curso/temas/tema1/img16.svg", alt="alt").img1-tm1
       .col-lg-10
         p Al conocer la importancia de la gestión de la información, y su impacto en los procesos desarrollados dentro de la empresa; es importante mencionar las diferencias entre inducción y #[i Onboarding.]
 
@@ -242,7 +244,6 @@
         .col-lg-10
           .cajon.color-primario.p-4
             p Una diferencia importante entre la inducción y el #[i Onboarding] es que la primera busca cumplir con los requerimientos normativos y legales para que el colaborador se capacite y conozca la información necesaria para su mejor adaptación en la empresa; mientras que el #[i Onboarding] es un proceso más detallado, planificado y personalizado.
-
 
 
 
