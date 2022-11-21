@@ -125,7 +125,7 @@
                   h3.mb-1 Normas ISO
                   p Ver documento
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/norma_iso_9001-2015.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

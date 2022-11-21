@@ -160,17 +160,19 @@
         .col-lg-10
           .tarjeta.color-secundario.p-3.mb-5
             .row.justify-content-around.align-items-center
-              .col-3.col-sm-2.col-lg-2
+              .col-3.col-sm-2.col-lg-2.my-3
                 img(src="@/assets/curso/temas/tema3/img12.svg").img8-tm1
-              .col
+              .col-lg-10
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h3.mb-1 Comunicación asertiva en el trabajo: 7 estrategias exitosas
-                    p Para profundizar más en la importancia de la comunicación asertiva en ambientes laborales, diríjase al material complementario y explore el blog: #[strong Comunicación asertiva en el trabajo: 7 estrategias exitosas.]
-                  .col-sm-auto
-                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                      span Descargar
-                      i.fas.fa-file-download
+                    p Para profundizar más en la importancia de la comunicación asertiva en ambientes laborales, diríjase al material complementario y explore el blog: 
+              .col-sm-auto
+                a.anexo.mb-4.mb-lg-0(href="https://www.ieie.eu/comunicacion-asertiva-en-el-trabajo/" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-link.svg")
+                  .anexo__texto
+                    p #[strong Comunicación asertiva en el trabajo: 7 estrategias exitosas.]
 
 
     .row.justify-content-start.align-items-center.my-5 
