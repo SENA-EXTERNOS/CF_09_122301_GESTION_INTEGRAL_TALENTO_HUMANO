@@ -13,7 +13,7 @@
     .row.justify-content-center.my-5
       .col-lg-8
         figure
-          img(src="@/assets/curso/temas/tema4/img1.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema4/1.svg", alt="alt")
 
     .row.my-5
       p Los recursos empresariales corresponden a todos aquellos aspectos que brindan los elementos necesarios para que la empresa pueda funcionar en el campo productivo. Los más manejados son:
@@ -63,7 +63,7 @@
         p Por su parte, los formatos son diseñados de acuerdo a las necesidades del proceso, a las características de la empresa, a su misión, visión y objetivos empresariales. Hay formatos de varios tipos que se adecuan según la exigencia del proyecto, el fin que se busca con su diligenciamiento y posterior análisis de resultados. 
 
     .row.my-5
-      p A continuación, se describen los tipos de formatos más usados en el ámbito empresarial:
+      p Los tipos de formatos más usados en el ámbito empresarial son: 
   
       .row.justify-content-center.my-5
         .col-lg-9
@@ -98,7 +98,7 @@
       .row.justify-content-center.my-5
         .col-lg-10
           .cajon.color-primario.p-4
-            p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a desarrollar la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.
+            p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 

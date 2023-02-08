@@ -70,8 +70,8 @@
             img(src="@/assets/curso/temas/tema2/img4.svg", alt="alt").img1-tm1
 
         .col-lg-10
-          p Al haber tratado, en teoría, las clases de planeación y su aplicación en las áreas o departamentos, se mostrará, de manera gráfica, la ejecución y lugar de cada tipo de planeación.
-          p La Figura 2 enseña, mediante un ejemplo, cómo se desarrollan los planes estratégicos, tácticos y operacionales en la empresa. El ejemplo inicia desde la alta gerencia, donde, el área de recursos humanos, al identificar necesidades, diseñan un plan táctico sobre sus procesos y, desde allí, surgen las necesidades para el desarrollo del plan operativo.
+          p Al haber examinado, las clases de planeación y su aplicación en las áreas o departamentos, se mostrará, de manera gráfica, la ejecución y lugar de cada tipo de planeación.
+          p La siguiente figura muestra, mediante un ejemplo, cómo se desarrollan los planes estratégicos, tácticos y operacionales en la empresa. El ejemplo inicia desde la alta gerencia, donde, el área de recursos humanos, al identificar necesidades, diseña un plan táctico sobre sus procesos y, desde allí, surgen las necesidades para el desarrollo del plan operativo.
 
       .row.justify-content-center.my-5
         .col-lg-10
@@ -82,10 +82,10 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Figura 2
-                    p Diagrama de metodología y plan para el programa de inducción
+                    h4.mb-1 Figura 2
+                    p.mb-0 Diagrama de metodología y plan para el programa de inducción
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/figura–2.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_1_Desarrollo_de_planes_estrategicos_tacticos_y_operacionales_en_la_empresa.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-file-download
 
@@ -112,10 +112,10 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Figura 3
-                    p Diagrama de metodología y plan para el programa de inducción
+                    h4.mb-1 Figura 3
+                    p.mb-0 Diagrama de metodología y plan para el programa de inducción
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/figura-3.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_2_Metodologia_general_del_desarrollo_de_la_planeacion_estrategica_de_la_empresa.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-file-download
 

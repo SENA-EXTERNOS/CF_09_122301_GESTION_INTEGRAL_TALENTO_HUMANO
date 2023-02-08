@@ -83,8 +83,7 @@
           h4(data-aos="fade-down").mb-0  Procesos
  
     .row.my-5
-      p A continuación, se presentarán cada uno de los pasos para la estructuración de los procesos, desde la fase inicial: identificación de necesidades; hasta la etapa final: evaluación del plan.
-
+      p A continuación, se presentarán cada uno de los pasos para la estructuración de los procesos, desde la fase inicial: identificación de necesidades; hasta la etapa final: evaluación del plan. Veamos:
     .row.justify-content-center.my-5
       .col-lg-10
         ImagenInfografica.color-acento-botones
@@ -156,24 +155,6 @@
     .row.my-5
       p Es importante destacar la comunicación asertiva en el campo laboral, habilidad fundamental que evita malos entendidos, ayuda en la resolución de problemas y beneficia la interacción interna y externa de la compañía. Si el empleado tiene la capacidad de expresar sus ideas y pensamientos sin vulnerar a las personas con las que interactúa, tendrá la posibilidad de manejar límites con los otros, teniendo como fundamento el respeto en las diferentes interacciones laborales que vive. 
 
-      .row.justify-content-center.my-5
-        .col-lg-10
-          .tarjeta.color-secundario.p-3.mb-5
-            .row.justify-content-around.align-items-center
-              .col-3.col-sm-2.col-lg-2.my-3
-                img(src="@/assets/curso/temas/tema3/img12.svg").img8-tm1
-              .col-lg-10
-                .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0
-                    h3.mb-1 Comunicación asertiva en el trabajo: 7 estrategias exitosas
-                    p Para profundizar más en la importancia de la comunicación asertiva en ambientes laborales, diríjase al material complementario y explore el blog: 
-              .col-sm-auto
-                a.anexo.mb-4.mb-lg-0(href="https://www.ieie.eu/comunicacion-asertiva-en-el-trabajo/" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[strong Comunicación asertiva en el trabajo: 7 estrategias exitosas.]
-
 
     .row.justify-content-start.align-items-center.my-5 
       .col-lg-3
@@ -182,7 +163,7 @@
 
 
     .row.my-5
-      p Dentro de la empresa se presentan varias clases de comunicación. Esta tipología depende, básicamente, de dos factores: el área que transmite y a quién va dirigida la información. Así, las clases de comunicación que se encuentran en el ámbito empresarial son:
+      p Dentro de la empresa, se presentan varias clases de comunicación. Esta tipología depende, básicamente, de dos factores: el área que transmite y a quién va dirigida la información. Las clases de comunicación que se encuentran en el ámbito empresarial, son:
 
     .fondo-tarjeta4
       .tarjeta.tarjeta--morada.color-primario--borde.p-4.mb-5

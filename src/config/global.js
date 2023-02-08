@@ -133,33 +133,34 @@ export default {
   },
   complementario: [
     {
-      tema: 'Comunicación asertiva',
+      tema: 'Planeación estratégica',
       referencia:
-        'Flores-Carretero, E. (s. f). 7 <i>estrategias de comunicación asertiva en el trabajo para mejorar el clima laboral.</i> ',
+        'Flores-Carretero, E. (s.f.). 7 <i>estrategias de comunicación asertiva en el trabajo para mejorar el clima laboral</i>. ',
       tipo: 'Blog',
+      link: 'https://www.ieie.eu/comunicacion-asertiva-en-el-trabajo/',
+    },
+    {
+      tema: 'Programa de inducción',
+      referencia:
+        'Decreto 1567 de 1998 [Departamento Administrativo de la Función Pública] Creación del sistema nacional de capacitación y de estímulos para los <i>empleados del Estado</i>. 5 de agosto de 1998.',
+      tipo: 'Decreto',
       link:
-        'Comunicación asertiva en el trabajo: 7 estrategias exitosas (ieie.eu)',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1246',
     },
     {
-      tema: 'Normatividad y condiciones generales',
+      tema: 'Programa de inducción',
       referencia:
-        'Decreto 1567 de 1998 [Departamento Administrativo de la Función Pública] <i>Creación del sistema nacional de capacitación y de estímulos para los empleados del Estado.</i> 5 de agosto de 1998.',
+        'Decreto 1083 de 2015 Departamento Administrativo de la Función Pública. Inducción como el periodo de prueba de un empleado en su puesto de trabajo. 26 de mayo de 2005. Última actualización, 3 de agosto de 2022.',
       tipo: 'Decreto',
-      LINK: '',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62866',
     },
     {
-      tema: 'Normatividad y condiciones generales',
-      referencia:
-        'Decreto 1083 de 2015 Departamento Administrativo de la Función Pública. <i>Inducción como el periodo de prueba de un empleado en su puesto de trabajo.</i> 26 de mayo de 2005. Última actualización, 3 de agosto de 2022.',
-      tipo: 'Decreto',
-      link: '',
-    },
-    {
-      tema: 'Registro de calidad',
+      tema: 'Plan de trabajo',
       referencia:
         'Norma Técnica Colombiana NTC-ISO9001 de 2015 [ICONTEC] Gestión y aseguramiento de la calidad.',
       tipo: 'Norma técnica',
-      LINK: 'asasas',
+      link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
     },
   ],
   glosario: [
@@ -227,8 +228,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Barzaga-Sablón, O. S., Pincay, H. J. J. V., Nevárez-Barberán, J. V., & Cobeña, M. V. A. (2019). <i>Gestión de la información y toma de decisiones en organizaciones educativas.</i> Revista de ciencias sociales, 25(2), 120-130. ',
-      link: '',
+        'Barzaga-Sablón, O. S., Pincay, H. J. J. V., Nevárez-Barberán, J. V., & Cobeña, M. V. A. (2019). Gestión de la información y toma de decisiones en organizaciones educativas. <i>Revista de ciencias sociales, 25</i>(2), p. 120-130. ',
     },
     {
       referencia:
@@ -242,7 +242,7 @@ export default {
     },
     {
       referencia:
-        'Mendez Rosales, E. J., Arvizu López, B. A., Enciso Arámbula, R., Estrada Esquivel, A. L., López Santana, M. Á., & Maldonado Bernal, I. (2018). <i>Inducción como una visión para el desempeño integral del trabajador.</i> Tepic: La Universidad Tecnocientífica del Pacifico.',
+        'Méndez Rosales, E. J., Arvizu López, B. A., Enciso Arámbula, R., Estrada Esquivel, A. L., López Santana, M. Á., & Maldonado Bernal, I. (2018). <i>Inducción como una visión para el desempeño integral del trabajador</i>. Tepic: La Universidad Tecnocientífica del Pacífico.',
       link: '',
     },
   ],

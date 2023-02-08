@@ -57,8 +57,8 @@
         figure
           img(src="@/assets/curso/temas/tema1/img4.svg", alt="alt").img1-tm1
       .col-lg-10
-        p Los programas de inducción cuentan con dos tipos básicos de socialización: general y específico; sin embargo, recientemente, se ha evidenciado la pertinencia de otros dos: #[strong preinducción y reinducción,] procesos que se realizan en situaciones especiales.
-        p En el siguiente video se abordará cada tipo de proceso, con sus respectivas características:
+        p Los programas de inducción cuentan con dos tipos básicos de socialización: general y específico; sin embargo, recientemente, se ha evidenciado la pertinencia de otros dos: <b>preinducción</b> y <b>reinducción</b>, procesos que se realizan en situaciones especiales.
+        p En el siguiente video, se abordará cada tipo de proceso, con sus respectivas características:
 
     .row.my-5
       figure
@@ -112,22 +112,6 @@
       p.mt-5 Ahora bien, después de puntualizar en los decretos más representativos de los lineamientos para la implementación y desarrollo de la inducción; se profundizará en el registro de calidad para su realización.
       p Cuando las empresas hablan de normatividad, específicamente, apelan al Registro de calidad, a las #[strong Normas ISO,] las cuales documentan todo el proceso organizacional: desde el momento de su inicio hasta su fin. Así, toda la información recogida se maneja como evidencia de las actividades realizadas. 
       p Todo proceso realizado dentro de la empresa debe cumplir con los registros de calidad específicamente para: 
-
-    .row.justify-content-center.my-5
-      .col-lg-10
-        .tarjeta.color-secundario.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/temas/tema1/img8.svg").img8-tm1
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Normas ISO
-                  p Ver documento
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/norma_iso_9001-2015.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -190,6 +174,7 @@
       
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Figura 1
+      br
       span #[i Diagrama de metodología y plan para el programa de inducción] 
 
     .row.justify-content-center.my-5
