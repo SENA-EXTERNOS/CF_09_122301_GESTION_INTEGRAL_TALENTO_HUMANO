@@ -116,7 +116,7 @@
     .row.justify-content-center.my-5
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/img9.svg',)              
+          img(src='@/assets/curso/temas/tema1/1.svg',)              
 
     //.fondo-tarjeta1
     .row.justify-content-center.my-5
@@ -179,7 +179,7 @@
 
     .row.justify-content-center.my-5
       figure
-        img(src='@/assets/curso/temas/tema1/img14.svg',)     
+        img(src='@/assets/curso/temas/tema1/2.svg',)     
 
       .row.justify-content-center.my-5
         .col-lg-10
