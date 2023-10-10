@@ -178,7 +178,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span #[strong A]
-                  b Comunicación de la Dirección al personal:
+                  b Comunicación de la dirección al personal:
               p Es la comunicación que se presenta desde la dirección al personal en general. Este tipo de comunicación busca reducir los canales informales que puedan tergiversar la información; de esta manera, brinda, desde la claridad discursiva, los lineamientos, capacitaciones o posibles cambios en la dinámica organizacional. 
           
           .row(titulo="B")
@@ -191,7 +191,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span #[strong B]
-                  b Comunicación del personal a la Dirección:
+                  b Comunicación del personal a la dirección:
               p Es transmitida del personal de rangos inferiores a la dirección, así, los primeros pueden dar a conocer sus posturas, ideas, sugerencias y comentarios generales que los afectan en el ámbito laboral.
   
           .row(titulo="C")

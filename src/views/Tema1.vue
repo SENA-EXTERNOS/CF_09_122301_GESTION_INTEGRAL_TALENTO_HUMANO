@@ -83,7 +83,7 @@
 
     .row.justify-content-center.my-5
       TabsC.color-acento-contenido
-        .py-3.py-md-4(titulo="<b>Decreto 1567 de 1998. Artículo 7</b>")
+        .py-3.py-md-4(titulo="<b>Decreto 1567 de 1998, Artículo 7</b>")
           .row.p-4
             .col-md-7.mb-4.mb-md-0
               p El Decreto 1567, artículo 7, define los programas de inducción y reinducción como planes iniciales desarrollados en cada entidad, siendo procesos formativos y de capacitación que buscan facilitar la integración del empleado en la organización.
@@ -97,7 +97,7 @@
         .py-3.py-md-4(titulo="<b>Decreto 1083 de 2015, en su  Artículo 2.2.6.24 periodo de prueba y su condición general</b>")
           .row.p-4
             .col-md-7.mb-4.mb-md-0
-              p En el Decreto 1083 de 2015, el Departamento Administrativo de la Función Pública, establece que: “El periodo de prueba deberá iniciarse con la inducción en el puesto de trabajo”. (26 de mayo de 2005, última actualización, 3 de agosto de 2022).
+              p En el Decreto 1083 de 2015, el Departamento Administrativo de la Función Pública, establece que: “El periodo de prueba deberá iniciarse con la inducción en el puesto de trabajo” (26 de mayo de 2005, última actualización, 3 de agosto de 2022).
               p Para profundizar en este decreto es necesario remitirse al material complementario.
           
             .col-md-5
@@ -137,7 +137,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img10.svg',)  
             .col-lg-10
-              p para la estructuración del programa de inducción.
+              p Para la estructuración del programa de inducción.
               p Identificación de los objetivos, organización de las actividades, planeación de las jornadas, duración, fechas, responsables, etc. Lo anterior, de acuerdo con las necesidades encontradas dentro de la empresa.
 
           .row(numero="B" titulo="Hacer")
@@ -202,7 +202,7 @@
           p Subrayando lo anterior, es fundamental el manejo que se le da a la información durante un tiempo determinado: puede ser de manipulación, modificación o distribución. En este último, se debe recordar que la información solo debe ir a las personas interesadas, y que entre menor contacto o manejo, menos probabilidad hay de que se pierda o se modifique dicha información. 
 
     .row.my-3
-      p La empresa, de esta manera, debe asegurar un manejo responsable y confidencial de toda la información; ya que, su análisis generará impacto en los procesos, y al buscar una mejora continua para el diseño de estrategias, afectará, de manera sustancial, la toma de decisiones que surgen en la identificación de las necesidades organizacionales. (Barzaga-Sablón et al. 2019). 
+      p La empresa, de esta manera, debe asegurar un manejo responsable y confidencial de toda la información; ya que, su análisis generará impacto en los procesos, y al buscar una mejora continua para el diseño de estrategias, afectará, de manera sustancial, la toma de decisiones que surgen en la identificación de las necesidades organizacionales (Barzaga-Sablón et al. 2019). 
 
     .row.justify-content-start.align-items-center.mb-5.pt-3         
       .col-lg-4

@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Intragrupal',
       significado:
-        'hace referencia a los integrantes de un mismo grupo. Ejemplo: Conflicto comunicacional entre los miembros del equipo del departamento financiero.',
+        'hace referencia a los integrantes de un mismo grupo. Ejemplo: conflicto comunicacional entre los miembros del equipo del departamento financiero.',
     },
     {
       termino: 'Metodología',
